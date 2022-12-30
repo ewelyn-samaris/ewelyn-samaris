@@ -5,24 +5,20 @@
 *Hi, nice to see you over here!*<br/>
 
 I'm a Systems Development student (technical course). Despite having a degree in Environmental Engineering, it is<br/>
-programming that I have found great satisfaction. I'm particularly interested in Android Mobile Development.
+programming that I have found great satisfaction. I'm particularly interested in Android Mobile Development.<br/>
 
-<div style ="display: inline_block">
-     <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)]     (https://www.linkedin.com/in/ewelynsamaris/") />
-     <img align="center" alt="Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=black](https://www.duolingo.com/profile/EwelynSamaris") />
-</div><br/>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewelynsamaris/)
+[![duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/EwelynSamaris)
 
 
-#### 🐍 Contributing Grid
-----
- ![Snake animation](https://github.com/ewelyn-samaris/ewelyn-samaris/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ewelyn-samaris/ewelyn-samaris/blob/output/github-contribution-grid-snake.svg)
 
 #### 📈 Statistics
 ----
-<div style ="display: inline_block"><br/>
+<div align="center">
   <a href="https://github.com/ewelyn-samaris">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ewelyn-samaris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewelyn-samaris&layout=compact&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewelyn-samaris&layout=compact&langs_count=7&theme=dracula" />
 </div><br/>
 
 
