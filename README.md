@@ -15,7 +15,7 @@ programming that I have found great satisfaction. I'm particularly interested in
 
 #### 🐍 Contributing Grid
 ----
-
+ ![Snake animation](https://github.com/ewelyn-samaris/ewelyn-samaris/blob/output/github-contribution-grid-snake.svg)
 
 #### 📈 Statistics
 ----
