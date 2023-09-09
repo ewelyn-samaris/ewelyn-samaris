@@ -1,9 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=995f72&height=150&width=800&section=header&text=Ewelyn%20Sâmaris&fontSize=50&fontColor=ffefdb&animation=fadeIn&fontAlign=70)
 
-
-*Hi, nice to see you over here!*<br/>
-
 I'm a Systems Development student (technical course). Despite having a degree in Environmental Engineering, it is<br/>
 programming that I have found great satisfaction. I'm particularly interested in Android Mobile Development.<br/>
 
@@ -22,7 +19,7 @@ programming that I have found great satisfaction. I'm particularly interested in
 </div><br/>
 
 
-#### 🚀 Technologies and Tools 
+<!-- #### 🚀 Technologies and Tools 
 ----
 <div align="center">
         <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=orange" />
@@ -32,7 +29,7 @@ programming that I have found great satisfaction. I'm particularly interested in
     <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black" />
 </div>
 
-----
+---- -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+sc&pause=1000&color=8E88F7&width=600&lines=The+feature+is+created+by+what+you+do+today!)
 
