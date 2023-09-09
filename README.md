@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=995f72&height=150&width=800&section=header&text=Ewelyn%20Sâmaris&fontSize=50&fontColor=ffefdb&animation=fadeIn&fontAlign=70)
 
 I'm a Systems Development student (technical course). Despite having a degree in Environmental Engineering, it is<br/>
-programming that I have found great satisfaction. I'm particularly interested in Android Mobile Development.<br/>
+in computer programming that I have found great satisfaction.<br/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewelynsamaris/)
 [![duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/EwelynSamaris)
