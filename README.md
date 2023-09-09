@@ -8,7 +8,7 @@ programming that I have found great satisfaction. I'm particularly interested in
 [![duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/EwelynSamaris)
 
 
-![Snake animation](https://github.com/ewelyn-samaris/ewelyn-samaris/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ewelyn-samaris/ewelyn-samaris/blob/output/github-contribution-grid-snake.svg) -->
 
 #### 📈 Statistics
 ----
@@ -29,7 +29,7 @@ programming that I have found great satisfaction. I'm particularly interested in
     <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black" />
 </div>
 
----- -->
+---- 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+sc&pause=1000&color=8E88F7&width=600&lines=The+feature+is+created+by+what+you+do+today!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+sc&pause=1000&color=8E88F7&width=600&lines=The+feature+is+created+by+what+you+do+today!) -->
 
