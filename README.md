@@ -5,7 +5,7 @@ I'm a systems developer. Currently working with JavaScript, TypeScript, Node.js,
 Despite having a degree in Environmental Engineering, it is in computer programming that I have found great satisfaction.<br/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewelynsamaris/)
-[![duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/EwelynSamaris)
+<!-- [![duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/EwelynSamaris) -->
 
 
 <!-- ![Snake animation](https://github.com/ewelyn-samaris/ewelyn-samaris/blob/output/github-contribution-grid-snake.svg) -->
