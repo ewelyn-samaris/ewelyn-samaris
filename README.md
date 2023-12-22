@@ -1,4 +1,4 @@
-
+# Ewelyn Sâmaris
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=995f72&height=150&width=800&section=header&text=Ewelyn%20Sâmaris&fontSize=50&fontColor=ffefdb&animation=fadeIn&fontAlign=70) -->
 
 I'm a systems developer. Currently working with JavaScript, TypeScript, Node.js, SQL with MySQL and TypeORM. I also like to study C++, Cloud with AWS and Programming fundamentals such as algorithms and data structures.<br/>
