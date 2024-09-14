@@ -1,9 +1,13 @@
 # Ewelyn Sâmaris
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=995f72&height=150&width=800&section=header&text=Ewelyn%20Sâmaris&fontSize=50&fontColor=ffefdb&animation=fadeIn&fontAlign=70) -->
 
-I'm a systems developer. Currently working with JavaScript, TypeScript, Node.js, SQL with MySQL and TypeORM. I also like to study C++, Cloud with AWS and Programming fundamentals such as algorithms and data structures.<br/>
+I'm a back-end developer.<br/>
+Currently working with JavaScript, TypeScript, Node.js, Nest.js, SQL with MySQL/PostgeSQL and TypeORM. <br/>
+I also like studing and solving code challeges with data structs and algorithms with C++.<br/>
 Despite having a degree in Environmental Engineering, it is in computer programming that I have found great satisfaction.<br/>
-
+<br/>
+Take a look at what I've been developing!<br/>
+<br/>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewelynsamaris/)
 <!-- [![duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/EwelynSamaris) -->
 
