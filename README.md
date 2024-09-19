@@ -1,6 +1,8 @@
 # Ewelyn Sâmaris
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=995f72&height=150&width=800&section=header&text=Ewelyn%20Sâmaris&fontSize=50&fontColor=ffefdb&animation=fadeIn&fontAlign=70) -->
 
+Hi!
+<br/>
 I'm a back-end developer.<br/>
 Currently working with JavaScript, TypeScript, Node.js, Nest.js, SQL with MySQL/PostgeSQL and TypeORM. <br/>
 I also like studing and solving code challeges with data structs and algorithms with C++.<br/>
